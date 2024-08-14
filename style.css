@@ -4,9 +4,6 @@
 body{
     background-color: lightblue;
 }
-  h1{
-    
-  }  
 }
 /* btw 600 and 899 ligh-green ayirikkum */
 @media (min-width:600px) and (max-width:900px) {
@@ -14,6 +11,11 @@ body{
     body{
         background-color: lightgreen;
     }
+p{
+    font-weight: bold;
+    font-size: xxx-large;
+}
+
 }
 /* 900px nu shesham lightpink aayirikkum */
 @media screen and (min-width:900px) {
