@@ -1,0 +1,25 @@
+
+/* 599 vare ligh blue aayirikkum */
+@media screen and (max-width:600px) {
+body{
+    background-color: lightblue;
+}
+  h1{
+    
+  }  
+}
+/* btw 600 and 899 ligh-green ayirikkum */
+@media (min-width:600px) and (max-width:900px) {
+
+    body{
+        background-color: lightgreen;
+    }
+}
+/* 900px nu shesham lightpink aayirikkum */
+@media screen and (min-width:900px) {
+    body{
+        background-color: lightpink;
+    }
+        
+    }
+
